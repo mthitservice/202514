@@ -20,12 +20,10 @@ https://huggingface.co/docs
 https://openai.com/
 ```
 
-Falls du weitere Anpassungen benötigst, lass es mich wissen!
+
 
 ### Modellanbieter
 
-
-Natürlich! Hier ist die aktualisierte Tabelle mit den neuesten Modellen der jeweiligen Anbieter:
 
 | Anbieter          | Website                        | Modellschwerpunkt                | Neuestes Modell                   |
 |-------------------|--------------------------------|----------------------------------|-----------------------------------|
@@ -50,7 +48,7 @@ Natürlich! Hier ist die aktualisierte Tabelle mit den neuesten Modellen der jew
 | IBM Watson        | ibm.com/watson | Verschiedene KI-Anwendungen      | -                                 |
 | Microsoft Azure   | azure.microsoft.com | Verschiedene KI-Dienste          | -                                 |
 
-Falls du weitere Informationen zu einem bestimmten Modell benötigst, lass es mich wissen! 😊
+
 
 
 
