@@ -10,15 +10,13 @@ https://www.metricsthatmatter.com/url/u.aspx?85601091A220288968
 ### Links zum Kurs
 
 
-```markdown
-https://projector.tensorflow.org/
-https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
-https://playground.tensorflow.org/#activation=tanh&batchSize=1&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=5&seed=0.57790&showTestData=false&discretize=false&percTrainData=10&x=true&y=false&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
-https://platform.openai.com/tokenizer
-https://copilot.cloud.microsoft/de-DE/prompts
-https://huggingface.co/docs
-https://openai.com/
-```
+- [TensorFlow Projector](https://projector.tensorflow.org/)
+- [ConvNetJS MNIST Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+- [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=1&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=5&seed=0.57790&showTestData=false&discretize=false&percTrainData=10&x=true&y=false&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+- [Microsoft Copilot Prompts](https://copilot.cloud.microsoft/de-DE/prompts)
+- [Hugging Face Docs](https://huggingface.co/docs)
+- [OpenAI](https://openai.com/)
 
 
 
