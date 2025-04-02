@@ -25,28 +25,32 @@ Falls du weitere Anpassungen benötigst, lass es mich wissen!
 ### Modellanbieter
 
 
-| Anbieter          | Website                        | Modellschwerpunkt                |
-|-------------------|--------------------------------|----------------------------------|
-| OpenAI            | openai.com | Sprachmodelle (z.B. GPT-4)       |
-| Google            | ai.google | Sprach- und Bildverarbeitung     |
-| Anthropic         | anthropic.com | Sprachmodelle (z.B. Claude)      |
-| Meta              | meta.com   | Sprachmodelle (z.B. LLaMA)       |
-| xAI               | x.ai           | Sprachmodelle (z.B. Grok)        |
-| Mistral           | mistral.ai | Sprachmodelle                    |
-| DeepSeek          | deepseek.ai | Sprachmodelle                    |
-| NexusFlow         | nexusflow.ai | Sprachmodelle                    |
-| AI21 Labs         | ai21.com   | Sprachmodelle (z.B. Jamba)       |
-| Alibaba           | alibaba.com | Sprachmodelle (z.B. Qwen)        |
-| Reka AI           | reka.ai     | Sprachmodelle                    |
-| Jasper AI         | jasper.ai | Content-Marketing                |
-| Lumen5            | lumen5.com | Videobearbeitung                 |
-| DALL-E 2          | [openai.com/dall-e-2](https://openai.com/dall-e-2) | Bildgenerierung                  |
-| CapCut            | capcut.com | Videobearbeitung                 |
-| Janitor AI        | janitor.ai | Sprachmodelle                    |
-| DeepMind          | deepmind.com | Verschiedene KI-Anwendungen      |
-| Hugging Face      | huggingface.co | Verschiedene KI-Modelle          |
-| IBM Watson        | ibm.com/watson | Verschiedene KI-Anwendungen      |
-| Microsoft Azure   | azure.microsoft.com | Verschiedene KI-Dienste          |
+Natürlich! Hier ist die aktualisierte Tabelle mit den neuesten Modellen der jeweiligen Anbieter:
+
+| Anbieter          | Website                        | Modellschwerpunkt                | Neuestes Modell                   |
+|-------------------|--------------------------------|----------------------------------|-----------------------------------|
+| OpenAI            | openai.com | Sprachmodelle (z.B. GPT-4)       | o3[1](https://www.contentmanager.de/nachrichten/ki-modell-o3-was-steckt-dahinter/)                           |
+| Google            | ai.google | Sprach- und Bildverarbeitung     | Gemini 2.5 Pro[2](https://www.it-boltwise.de/google-bringt-experimentelles-ki-modell-gemini-2-5-pro-fuer-alle-nutzer.html)              |
+| Anthropic         | anthropic.com | Sprachmodelle (z.B. Claude)      | Claude 3.7 Sonnet[3](https://deinkikompass.de/blog/claude-37-sonnet-das-leistungsfaehigste-ki-modell-von-anthropic)            |
+| Meta              | meta.com   | Sprachmodelle (z.B. LLaMA)       | Llama 3.3[4](https://neuroflash.com/de/llama3-3/)                    |
+| xAI               | x.ai           | Sprachmodelle (z.B. Grok)        | Grok 3[5](https://ki-trainingszentrum.com/grok-3-von-xai-was-elon-musks-ki-besser-macht-oder-auch-nicht/)                      |
+| Mistral           | mistral.ai | Sprachmodelle                    | Mistral 7B[6](https://www.schieb.de/mistral-europas-antwort-auf-ki-das-beste-large-language-model-aus-europa)                  |
+| DeepSeek          | deepseek.ai | Sprachmodelle                    | DeepSeek-V3-0324[7](https://deepseekv3.org/de/download)            |
+| NexusFlow         | nexusflow.ai | Sprachmodelle                    | Athene-V2[8](https://nexusflow.ai/blogs/athene-v2)                   |
+| AI21 Labs         | ai21.com   | Sprachmodelle (z.B. Jamba)       | Jamba[9](https://www.ai21.com/blog/announcing-jamba/)                       |
+| Alibaba           | alibaba.com | Sprachmodelle (z.B. Qwen)        | Qwen 2.5-Max[10](https://xpert.digital/ki-angriff-alibaba/)                |
+| Reka AI           | reka.ai     | Sprachmodelle                    | -                                 |
+| Jasper AI         | jasper.ai | Content-Marketing                | -                                 |
+| Lumen5            | lumen5.com | Videobearbeitung                 | -                                 |
+| DALL-E 2          | openai.com/dall-e-2 | Bildgenerierung                  | -                                 |
+| CapCut            | capcut.com | Videobearbeitung                 | -                                 |
+| Janitor AI        | janitor.ai | Sprachmodelle                    | -                                 |
+| DeepMind          | deepmind.com | Verschiedene KI-Anwendungen      | -                                 |
+| Hugging Face      | huggingface.co | Verschiedene KI-Modelle          | -                                 |
+| IBM Watson        | ibm.com/watson | Verschiedene KI-Anwendungen      | -                                 |
+| Microsoft Azure   | azure.microsoft.com | Verschiedene KI-Dienste          | -                                 |
+
+Falls du weitere Informationen zu einem bestimmten Modell benötigst, lass es mich wissen! 😊
 
 
 
